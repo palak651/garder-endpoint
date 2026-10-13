@@ -1,4 +1,4 @@
-```python
+
 import base64
 import time
 from collections import defaultdict, deque
@@ -137,4 +137,4 @@ async def list_orders(
         "items": items,
         "next_cursor": next_cursor,
     }
-```
+
