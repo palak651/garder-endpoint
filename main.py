@@ -1,4 +1,4 @@
-```python
+
 import base64
 import json
 import time
@@ -138,4 +138,4 @@ async def list_orders(
 @app.get("/")
 async def health():
     return {"status": "ok"}
-```
+
